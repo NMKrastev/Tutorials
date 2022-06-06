@@ -1,4 +1,3 @@
-import java.text.NumberFormat;
 import java.util.Scanner;
 
 public class MortgageCalculator {
@@ -34,15 +33,18 @@ public class MortgageCalculator {
             System.out.println("Period (Years): ");
             byte years = Byte.parseByte(scanner.nextLine());
             if (years >= 1 && years <= 30) {
+                numberOfPayments = years * MONTHS_IN_YEAR;
                 break;
             }
             System.out.println("Enter a value between 1 and 30");
         }
+        System.out.printf("Mortgage: %.2f$", mortgage(principal, monthlyInterest, numberOfPayments));
+    }
+    
+    public static double mortgage (int principal, float monthlyInterest, int numberOfPayments) {
 
-        double mortgage = principal * (monthlyInterest * Math.pow(1 + monthlyInterest, numberOfPayments)
+        return principal * (monthlyInterest * Math.pow(1 + monthlyInterest, numberOfPayments)
                 / (Math.pow(1 + monthlyInterest, numberOfPayments) - 1));
 
-        String mortgageFormatted = NumberFormat.getCurrencyInstance().format(mortgage);
-        System.out.println("Mortgage: " + mortgageFormatted);
     }
 }
