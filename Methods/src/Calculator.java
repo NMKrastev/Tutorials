@@ -7,15 +7,15 @@ public class Calculator {
         Scanner scanner = new Scanner(System.in);
         Calculator calculator = new Calculator();
 
-        int num1 = Integer.parseInt(scanner.nextLine());
-        int num2 = Integer.parseInt(scanner.nextLine());
-        Integer result = calculator.add(num1, num2);
+        int firstNum = Integer.parseInt(scanner.nextLine());
+        int secondNum = Integer.parseInt(scanner.nextLine());
+        Integer result = calculator.add(firstNum, secondNum);
         System.out.println("Result: " + result);
     }
 
-    public Integer add(Integer arg1, Integer arg2) {
+    public Integer add(Integer firstNum, Integer secondNum) {
 
-        Integer result = arg1 + arg2;
+        Integer result = firstNum + secondNum;
 
         return result;
     }
