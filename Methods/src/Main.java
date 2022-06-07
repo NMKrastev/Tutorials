@@ -1,8 +1,10 @@
+import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-
-        Car myFirstCar = new Car();
+        Scanner scanner = new Scanner(System.in);
+        // Uses Car class
+        /*Car myFirstCar = new Car();
         Car mySecondCar = new Car();
         System.out.println(myFirstCar.make);
         System.out.println(myFirstCar.model);
@@ -11,6 +13,15 @@ public class Main {
         System.out.println(mySecondCar.model);
 
         myFirstCar.drive();
-        myFirstCar.brake();
+        myFirstCar.brake();*/
+
+        //Uses Human class
+        Human humanOne = new Human("Nikola", 32, 105.5);
+        Human humanTwo = new Human("Mario", 29, 91.4);
+
+        System.out.println(humanOne.name);
+        System.out.println(humanTwo.name);
+        humanTwo.eat();
+        humanOne.drink();
     }
 }
