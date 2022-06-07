@@ -1,17 +1,4 @@
-import java.util.Scanner;
-
-public class PrimeNumbers {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.println("Enter first number: ");
-        int firstNum = Integer.parseInt(scanner.nextLine());
-       // System.out.println("Enter second number: ");
-        //int secondNum = Integer.parseInt(scanner.nextLine());
-
-        printPrime(firstNum);
-
-    }
+public class PrimeChecker {
 
     public static boolean isPrime(int num) {
         for (int i = 2; i <= num / 2; i++) {
@@ -22,7 +9,7 @@ public class PrimeNumbers {
         return true;
     }
 
-    public static void printPrime(int num) {
+    public static void printPrime (int num) {
         for (int i = num; i <= num; i++) {
             if (isPrime(i)) {
                 System.out.printf("%d - is Prime", i);
@@ -31,11 +18,10 @@ public class PrimeNumbers {
             }
         }
     }
-
     public static void printPrimeBetweenNumbers(int firstNum, int secondNum) {
         for (int i = firstNum; i <= secondNum; i++) {
             if (isPrime(i)) {
-                System.out.print(i + " ");
+                System.out.printf("%d ", i);
             }
         }
     }
