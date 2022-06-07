@@ -16,12 +16,21 @@ public class Main {
         myFirstCar.brake();*/
 
         //Uses Human class
-        Human humanOne = new Human("Nikola", 32, 105.5);
+        /*Human humanOne = new Human("Nikola", 32, 105.5);
         Human humanTwo = new Human("Mario", 29, 91.4);
 
         System.out.println(humanOne.name);
         System.out.println(humanTwo.name);
         humanTwo.eat();
-        humanOne.drink();
+        humanOne.drink();*/
+
+        //Uses Pizza class
+        Pizza pizza = new Pizza("thick crust", "tomato", "mozzarella", "pepperoni");
+        System.out.println("Here are the ingredients of your pizza:");
+        System.out.println(pizza.bread);
+        System.out.println(pizza.sauce);
+        System.out.println(pizza.cheese);
+        System.out.println(pizza.topping);
+
     }
 }
