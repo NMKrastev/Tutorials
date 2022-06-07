@@ -9,7 +9,7 @@ public class PrimeNumbers {
         System.out.println("Enter second number: ");
         int secondNum = Integer.parseInt(scanner.nextLine());
 
-       printPrime(firstNum, secondNum);
+        printPrime(firstNum, secondNum);
 
     }
 
