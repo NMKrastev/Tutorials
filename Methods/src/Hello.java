@@ -17,7 +17,7 @@ public class Hello {
         System.out.println(add(a, b, c, d));
 
     }
-    
+
     static void hello(String name, int age) {
         System.out.printf("Hello %s\n", name);
         System.out.printf("You are %d years old\n", age);
