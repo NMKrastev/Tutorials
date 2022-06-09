@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // Uses Car class
-        Car myFirstCar = new Car();
+        //Car myFirstCar = new Car();
         /*Car mySecondCar = new Car();
         System.out.println(myFirstCar.make);
         System.out.println(myFirstCar.model);
@@ -15,16 +15,23 @@ public class Main {
         myFirstCar.drive();
         myFirstCar.brake();*/
         //System.out.println(myFirstCar.toString());
-        System.out.println(myFirstCar);
+        //System.out.println(myFirstCar);
 
         //Uses Human class
-        /*Human humanOne = new Human("Nikola", 32, 105.5);
-        Human humanTwo = new Human("Mario", 29, 91.4);
+        String name = scanner.nextLine();
+        int age = Integer.parseInt(scanner.nextLine());
+        double weight = Double.parseDouble(scanner.nextLine());
+        Human humanOne = new Human(name, age, weight);
+        //Human humanTwo = new Human(name, age, weight);
 
         System.out.println(humanOne.name);
-        System.out.println(humanTwo.name);
-        humanTwo.eat();
-        humanOne.drink();*/
+        //System.out.println(humanTwo.name);
+
+        humanOne.introduction();
+        //humanTwo.introduction();
+
+        //humanTwo.eat();
+        //humanOne.drink();
 
         //Uses Pizza class
         /*Pizza pizza = new Pizza("thick crust", "tomato", "mozzarella", "pepperoni");

@@ -19,4 +19,8 @@ public class Human {
     void drink() {
         System.out.println(this.name + " is drinking");
     }
+
+    void introduction() {
+        System.out.printf("Hello, my name is %s. I'm %d years old. My weight is %.2f", this.name, this.age, this.weight);
+    }
 }
