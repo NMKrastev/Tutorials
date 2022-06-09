@@ -3,10 +3,14 @@ public class VechileManagement {
 
         Cars mercedes = new Cars();
         Cars bmw = new Cars();
-        SuperCar ferrari = new SuperCar();
+
+        Vehicle carOne = mercedes;
+        Vehicle carTwo = new Vehicle();
+        mercedes.move(); //Uses the override method ot Cars class and not the Vehicle move() method
+        carTwo.move();
+        /*SuperCar ferrari = new SuperCar();
 
         mercedes.numberOfWheels = 4;
-
 
         Bike r1 = new Bike();
         Bike s1000rr = new Bike();
@@ -16,6 +20,6 @@ public class VechileManagement {
 
         bmw.move();
         ferrari.engageTurbo();
-        System.out.println();
+        System.out.println();*/
     }
 }
