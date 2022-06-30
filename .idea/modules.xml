@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/09-ObjectPassing/09-ObjectPassing.iml" filepath="$PROJECT_DIR$/09-ObjectPassing/09-ObjectPassing.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-StaticKeyword/10-StaticKeyword.iml" filepath="$PROJECT_DIR$/10-StaticKeyword/10-StaticKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Inheritance/11-Inheritance.iml" filepath="$PROJECT_DIR$/11-Inheritance/11-Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-MethodOverriding/12-MethodOverriding.iml" filepath="$PROJECT_DIR$/12-MethodOverriding/12-MethodOverriding.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
