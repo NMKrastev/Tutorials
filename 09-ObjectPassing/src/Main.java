@@ -5,6 +5,7 @@ public class Main {
         //Passing value to the Car class constructor
         Car carOne = new Car("BMW");
         Car carTwo = new Car("Mercedes");
+        //Passing value to the Motorcycle class constructor
         Motorcycle bikeOne = new Motorcycle("Honda");
         Motorcycle bikeTwo = new Motorcycle("Ducati");
 
