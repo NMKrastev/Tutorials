@@ -8,7 +8,7 @@ public class Main {
         Hero heroTwo = new Hero("Spider-man", 18, "Super senses/Web/Strong");
 
         //Displays the same
-        System.out.println(heroTwo);
+        System.out.println(heroOne);
         System.out.println(heroTwo.toString());
 
     }
