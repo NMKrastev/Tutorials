@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/07-2DArrayList/07-2DArrayList.iml" filepath="$PROJECT_DIR$/07-2DArrayList/07-2DArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-ArrayOfObjects/08-ArrayOfObjects.iml" filepath="$PROJECT_DIR$/08-ArrayOfObjects/08-ArrayOfObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-ObjectPassing/09-ObjectPassing.iml" filepath="$PROJECT_DIR$/09-ObjectPassing/09-ObjectPassing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-StaticKeyword/10-StaticKeyword.iml" filepath="$PROJECT_DIR$/10-StaticKeyword/10-StaticKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
