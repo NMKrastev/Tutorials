@@ -11,7 +11,7 @@ public class A {
 
         B b = new B();
         //Can't access private message in B class
-        System.out.println(b.);
+        System.out.println();
 
     }
 }
