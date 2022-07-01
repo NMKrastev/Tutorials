@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/12-MethodOverriding/12-MethodOverriding.iml" filepath="$PROJECT_DIR$/12-MethodOverriding/12-MethodOverriding.iml" />
       <module fileurl="file://$PROJECT_DIR$/13-SuperKeyword/13-SuperKeyword.iml" filepath="$PROJECT_DIR$/13-SuperKeyword/13-SuperKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/14-Abstraction/14-Abstraction.iml" filepath="$PROJECT_DIR$/14-Abstraction/14-Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-AccessModifires-public-protected-private/15-AccessModifires-public-protected-private.iml" filepath="$PROJECT_DIR$/15-AccessModifires-public-protected-private/15-AccessModifires-public-protected-private.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
