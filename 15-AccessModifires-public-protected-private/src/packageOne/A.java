@@ -10,6 +10,7 @@ public class A {
         System.out.println(c.publicMessage);
 
         B b = new B();
+        //Can't access private message in B class
         System.out.println(b.);
 
     }
