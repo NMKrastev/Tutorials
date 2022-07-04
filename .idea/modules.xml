@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/15-AccessModifires-public-protected-private/15-AccessModifires-public-protected-private.iml" filepath="$PROJECT_DIR$/15-AccessModifires-public-protected-private/15-AccessModifires-public-protected-private.iml" />
       <module fileurl="file://$PROJECT_DIR$/16-Encapsulation/16-Encapsulation.iml" filepath="$PROJECT_DIR$/16-Encapsulation/16-Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/17-CopyObjects/17-CopyObjects.iml" filepath="$PROJECT_DIR$/17-CopyObjects/17-CopyObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-Interface/18-Interface.iml" filepath="$PROJECT_DIR$/18-Interface/18-Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
