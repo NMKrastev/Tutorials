@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/24-FileReader/24-FileReader.iml" filepath="$PROJECT_DIR$/24-FileReader/24-FileReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/25-Audio/25-Audio.iml" filepath="$PROJECT_DIR$/25-Audio/25-Audio.iml" />
       <module fileurl="file://$PROJECT_DIR$/26-GUI/26-GUI.iml" filepath="$PROJECT_DIR$/26-GUI/26-GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27-Labels/27-Labels.iml" filepath="$PROJECT_DIR$/27-Labels/27-Labels.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
