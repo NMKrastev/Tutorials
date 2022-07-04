@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/20-DynamicPolymorphism/20-DynamicPolymorphism.iml" filepath="$PROJECT_DIR$/20-DynamicPolymorphism/20-DynamicPolymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/21-ExceptionHandling/21-ExceptionHandling.iml" filepath="$PROJECT_DIR$/21-ExceptionHandling/21-ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/22-FileClass/22-FileClass.iml" filepath="$PROJECT_DIR$/22-FileClass/22-FileClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-FileWriter/23-FileWriter.iml" filepath="$PROJECT_DIR$/23-FileWriter/23-FileWriter.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>

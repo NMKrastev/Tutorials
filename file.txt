@@ -1,0 +1,4 @@
+First line of text that will be written to the file
+Second line of text that will be written to the file
+Third line of text that will be written to the file
+(A file by me)
