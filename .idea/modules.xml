@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/28-Panels/28-Panels.iml" filepath="$PROJECT_DIR$/28-Panels/28-Panels.iml" />
       <module fileurl="file://$PROJECT_DIR$/29-Buttons/29-Buttons.iml" filepath="$PROJECT_DIR$/29-Buttons/29-Buttons.iml" />
       <module fileurl="file://$PROJECT_DIR$/30-BorderLayout/30-BorderLayout.iml" filepath="$PROJECT_DIR$/30-BorderLayout/30-BorderLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31-FlowLayout/31-FlowLayout.iml" filepath="$PROJECT_DIR$/31-FlowLayout/31-FlowLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
