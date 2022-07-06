@@ -28,3 +28,21 @@ Here are all of the tutorials I've went through the time learning Java from diff
 * File Reader
 * Audio
 * GUI
+* Labels
+* Panels
+* Buttons
+* Border Layout
+* Flow Layout
+* Grid Layout
+* Layered Pane
+* Open New GUI Window
+* JOptionPane
+* Text Field
+* CheckBox
+* Radio Buttons
+* Combo Box
+* Slider
+* Progress Bar
+* Menu Bar
+* Select A File
+* Color Chooser
