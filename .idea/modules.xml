@@ -35,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/31-FlowLayout/31-FlowLayout.iml" filepath="$PROJECT_DIR$/31-FlowLayout/31-FlowLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/32-GridLayout/32-GridLayout.iml" filepath="$PROJECT_DIR$/32-GridLayout/32-GridLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/33-LayeredPane/33-LayeredPane.iml" filepath="$PROJECT_DIR$/33-LayeredPane/33-LayeredPane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34-OpenNewGUIWindow/34-OpenNewGUIWindow.iml" filepath="$PROJECT_DIR$/34-OpenNewGUIWindow/34-OpenNewGUIWindow.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
