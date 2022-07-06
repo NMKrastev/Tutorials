@@ -38,6 +38,7 @@
       <module fileurl="file://$PROJECT_DIR$/34-OpenNewGUIWindow/34-OpenNewGUIWindow.iml" filepath="$PROJECT_DIR$/34-OpenNewGUIWindow/34-OpenNewGUIWindow.iml" />
       <module fileurl="file://$PROJECT_DIR$/35-JOptionPane/35-JOptionPane.iml" filepath="$PROJECT_DIR$/35-JOptionPane/35-JOptionPane.iml" />
       <module fileurl="file://$PROJECT_DIR$/36-TextField/36-TextField.iml" filepath="$PROJECT_DIR$/36-TextField/36-TextField.iml" />
+      <module fileurl="file://$PROJECT_DIR$/37-Checkbox/37-Checkbox.iml" filepath="$PROJECT_DIR$/37-Checkbox/37-Checkbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
