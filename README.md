@@ -58,7 +58,8 @@ Here are all of the tutorials I've went through the time learning Java from diff
                 <li>Menu Bar</li>
                 <li>Select A File</li>
 				<li>Color Chooser</li>
-                <li></li></ul>
+                <li></li>
+            </ul>
         </td>
     </tr>
 </table>
