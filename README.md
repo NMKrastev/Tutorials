@@ -3,7 +3,7 @@ Tutorials</br>
 
 Here are all of the tutorials I've went through the time learning Java from different sources.</br>
 <b>List of tutorials:</b></br>
-<table border="0">
+<table>
     <tr>
         <td valign="top">
             <ul>
@@ -60,5 +60,5 @@ Here are all of the tutorials I've went through the time learning Java from diff
 				<li>Color Chooser</li>
                 <li></li></ul>
         </td>
-        </tr>
+    </tr>
 </table>
