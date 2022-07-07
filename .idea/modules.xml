@@ -50,6 +50,7 @@
       <module fileurl="file://$PROJECT_DIR$/46-MouseListener/46-MouseListener.iml" filepath="$PROJECT_DIR$/46-MouseListener/46-MouseListener.iml" />
       <module fileurl="file://$PROJECT_DIR$/47-KeyBindings/47-KeyBindings.iml" filepath="$PROJECT_DIR$/47-KeyBindings/47-KeyBindings.iml" />
       <module fileurl="file://$PROJECT_DIR$/48-2DGraphics/48-2DGraphics.iml" filepath="$PROJECT_DIR$/48-2DGraphics/48-2DGraphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/49-2DAnimation/49-2DAnimation.iml" filepath="$PROJECT_DIR$/49-2DAnimation/49-2DAnimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
