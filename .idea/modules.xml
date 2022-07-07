@@ -47,6 +47,7 @@
       <module fileurl="file://$PROJECT_DIR$/43-SelectAFile/43-SelectAFile.iml" filepath="$PROJECT_DIR$/43-SelectAFile/43-SelectAFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/44-ColorChooser/44-ColorChooser.iml" filepath="$PROJECT_DIR$/44-ColorChooser/44-ColorChooser.iml" />
       <module fileurl="file://$PROJECT_DIR$/45-KeyListener/45-KeyListener.iml" filepath="$PROJECT_DIR$/45-KeyListener/45-KeyListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46-MouseListener/46-MouseListener.iml" filepath="$PROJECT_DIR$/46-MouseListener/46-MouseListener.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
