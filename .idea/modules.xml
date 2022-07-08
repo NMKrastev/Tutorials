@@ -58,6 +58,7 @@
       <module fileurl="file://$PROJECT_DIR$/54-AnonymousObjects/54-AnonymousObjects.iml" filepath="$PROJECT_DIR$/54-AnonymousObjects/54-AnonymousObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/55-InnerClasses/55-InnerClasses.iml" filepath="$PROJECT_DIR$/55-InnerClasses/55-InnerClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/56-AnonymousInnerClass/56-AnonymousInnerClass.iml" filepath="$PROJECT_DIR$/56-AnonymousInnerClass/56-AnonymousInnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/57-Lambda/57-Lambda.iml" filepath="$PROJECT_DIR$/57-Lambda/57-Lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
