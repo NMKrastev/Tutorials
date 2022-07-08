@@ -22,7 +22,7 @@ public class Main {
             frame.add(deck.get(i - 1));
         }
 
-        frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(500, 500);
         frame.setLayout(new FlowLayout());
         frame.setVisible(true);
