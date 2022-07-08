@@ -14,6 +14,20 @@ public class Main {
          GREAT FOR LISTENERS
          */
 
-        
+       /* Greeting greeting = new Greeting() {
+
+            @Override
+            public void Welcome() {
+                System.out.println("Hello, this is inner class!");
+            }
+
+        };
+        Greeting greeting2 = new Greeting();
+
+        greeting.Welcome();
+        greeting2.Welcome();*/
+
+        new Frame();
+
     }
 }
