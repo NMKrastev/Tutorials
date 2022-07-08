@@ -52,6 +52,7 @@
       <module fileurl="file://$PROJECT_DIR$/48-2DGraphics/48-2DGraphics.iml" filepath="$PROJECT_DIR$/48-2DGraphics/48-2DGraphics.iml" />
       <module fileurl="file://$PROJECT_DIR$/49-2DAnimation/49-2DAnimation.iml" filepath="$PROJECT_DIR$/49-2DAnimation/49-2DAnimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/50-MethodChaining/50-MethodChaining.iml" filepath="$PROJECT_DIR$/50-MethodChaining/50-MethodChaining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/51-Enum/51-Enum.iml" filepath="$PROJECT_DIR$/51-Enum/51-Enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
