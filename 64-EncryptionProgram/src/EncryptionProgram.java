@@ -81,6 +81,18 @@ public class EncryptionProgram {
 
     private void getKey() {
 
+        System.out.println("Key: ");
+
+        for (Character x:
+             list) {
+            System.out.print(x);
+        }
+        System.out.println();
+        for (Character x:
+                shuffledList) {
+            System.out.print(x);
+        }
+        System.out.println();
     }
 
     private void encrypt() {
