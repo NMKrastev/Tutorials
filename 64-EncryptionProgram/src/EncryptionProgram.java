@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -59,6 +60,22 @@ public class EncryptionProgram {
     }
 
     private void newKey() {
+
+        character = ' ';
+        list.clear();
+        shuffledList.clear();
+
+        for (int i = 32; i <= 126 ; i++) {
+
+            //list.add(Character.valueOf(character));
+            list.add(character);
+            character++;
+
+        }
+
+        shuffledList = new ArrayList(list);
+        Collections.shuffle(shuffledList);
+        System.out.println("!!!New key has been generated!!!");
 
     }
 
