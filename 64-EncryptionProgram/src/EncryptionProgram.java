@@ -96,14 +96,56 @@ public class EncryptionProgram {
     }
 
     private void encrypt() {
+        System.out.println("Enter message that will be encrypted : ");
+        String message = scanner.nextLine();
 
+        letters = message.toCharArray();
+
+        for (int i = 0; i < letters.length; i++) {
+
+            for (int j = 0; j < list.size(); j++) {
+
+                if (letters[i] == list.get(j)) {
+                    letters[i] = shuffledList.get(j);
+                    break;
+                }
+            }
+        }
+        System.out.println("Encrypted: ");
+
+        for (char x : letters) {
+            System.out.print(x);
+        }
+        System.out.println();
     }
 
     private void decrypt() {
 
+        System.out.println("Enter message that will be decrypted : ");
+        String message = scanner.nextLine();
+
+        letters = message.toCharArray();
+
+        for (int i = 0; i < letters.length; i++) {
+
+            for (int j = 0; j < shuffledList.size(); j++) {
+
+                if (letters[i] == shuffledList.get(j)) {
+                    letters[i] = list.get(j);
+                    break;
+                }
+            }
+        }
+        System.out.println("Decrypted: ");
+
+        for (char x : letters) {
+            System.out.print(x);
+        }
+        System.out.println();
     }
 
     private void quit() {
-
+        System.out.println("Have a nice day!");
+        System.exit(0);
     }
 }
