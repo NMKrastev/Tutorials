@@ -1,4 +1,5 @@
 # Tutorials
+
 Tutorials</br>
 
 Here are all of the tutorials I've went through the time learning Java from different sources.</br>
@@ -58,6 +59,22 @@ Here are all of the tutorials I've went through the time learning Java from diff
                 <li>Menu Bar</li>
                 <li>Select A File</li>
 				<li>Color Chooser</li>
+                <li>Key Listener</li>
+                <li>Mouse Listener</li>
+                <li>Key Bindings</li>
+                <li>2D Graphics</li>
+                <li>2D Animation</li>
+                <li>Method Chaining</li>
+                <li>Enum</li>
+                <li>Hash Map</li>
+                <li>Custom Exceptions</li>
+                <li>Anonymous Objects</li>
+                <li>Inner Classes</li>
+                <li>Anonymous Classes</li>
+                <li>Lambda</li>
+                <li>Generics</li>
+                <li>Serializarion / Deserialization</li>
+                <li>Time Task</li>
                 <li></li>
             </ul>
         </td>
