@@ -62,6 +62,7 @@
       <module fileurl="file://$PROJECT_DIR$/58-Generics/58-Generics.iml" filepath="$PROJECT_DIR$/58-Generics/58-Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/59-Deserialization/59-Deserialization.iml" filepath="$PROJECT_DIR$/59-Deserialization/59-Deserialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/59-Serialization/59-Serialization.iml" filepath="$PROJECT_DIR$/59-Serialization/59-Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/60-TimeTask/60-TimeTask.iml" filepath="$PROJECT_DIR$/60-TimeTask/60-TimeTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
