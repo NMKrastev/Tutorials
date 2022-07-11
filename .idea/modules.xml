@@ -64,6 +64,7 @@
       <module fileurl="file://$PROJECT_DIR$/59-Serialization/59-Serialization.iml" filepath="$PROJECT_DIR$/59-Serialization/59-Serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/60-TimeTask/60-TimeTask.iml" filepath="$PROJECT_DIR$/60-TimeTask/60-TimeTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/61-Threads/61-Threads.iml" filepath="$PROJECT_DIR$/61-Threads/61-Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/62-Multithreading/62-Multithreading.iml" filepath="$PROJECT_DIR$/62-Multithreading/62-Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
