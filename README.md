@@ -28,11 +28,11 @@ Here are all of the tutorials I've went through the time learning Java from diff
 				<li>Polymorphism</li>
 				<li>Dynamic Polymorphism</li>
 				<li>Exception Handling</li>
+                <li>File Class</li>
             </ul>
         </td>
         <td valign="top">
             <ul>
-                <li>File Class</li>
 				<li>File Writer</li>
                 <li>File Reader</li>
                 <li>Audio</li>
@@ -52,12 +52,12 @@ Here are all of the tutorials I've went through the time learning Java from diff
                 <li>Combo Box</li>
 				<li>Slider</li>
                 <li>Progress Bar</li>
+                <li>Menu Bar</li>
+                <li>Select A File</li>
             </ul>
         </td>
         <td valign="top">
             <ul>
-                <li>Menu Bar</li>
-                <li>Select A File</li>
 				<li>Color Chooser</li>
                 <li>Key Listener</li>
                 <li>Mouse Listener</li>
@@ -75,31 +75,10 @@ Here are all of the tutorials I've went through the time learning Java from diff
                 <li>Generics</li>
                 <li>Serializarion / Deserialization</li>
                 <li>Time Task</li>
-                <li></li>
-            </ul>
-        </td>
-        <td valign="top">
-            <ul>
-                <li></li>
-                <li></li>
-				<li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Threads</li>
+                <li>Multithreading</li>
+                <li>Packages</li>
+                <li>Encryption Program App</li>
             </ul>
         </td>
     </tr>
