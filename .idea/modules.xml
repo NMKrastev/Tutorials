@@ -67,6 +67,7 @@
       <module fileurl="file://$PROJECT_DIR$/62-Multithreading/62-Multithreading.iml" filepath="$PROJECT_DIR$/62-Multithreading/62-Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/63-Packages/63-Packages.iml" filepath="$PROJECT_DIR$/63-Packages/63-Packages.iml" />
       <module fileurl="file://$PROJECT_DIR$/64-EncryptionProgram/64-EncryptionProgram.iml" filepath="$PROJECT_DIR$/64-EncryptionProgram/64-EncryptionProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/65-Stacks/65-Stacks.iml" filepath="$PROJECT_DIR$/65-Stacks/65-Stacks.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
