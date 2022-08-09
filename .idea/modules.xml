@@ -75,6 +75,7 @@
       <module fileurl="file://$PROJECT_DIR$/70-LinkedListsvsArrayLists/70-LinkedListsvsArrayLists.iml" filepath="$PROJECT_DIR$/70-LinkedListsvsArrayLists/70-LinkedListsvsArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/71-BigONotation/71-BigONotation.iml" filepath="$PROJECT_DIR$/71-BigONotation/71-BigONotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/72-LinearSearch/72-LinearSearch.iml" filepath="$PROJECT_DIR$/72-LinearSearch/72-LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/73-BinarySearch/73-BinarySearch.iml" filepath="$PROJECT_DIR$/73-BinarySearch/73-BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
