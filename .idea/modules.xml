@@ -71,6 +71,7 @@
       <module fileurl="file://$PROJECT_DIR$/66-Queues/66-Queues.iml" filepath="$PROJECT_DIR$/66-Queues/66-Queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/67-PriorityQueues/67-PriorityQueues.iml" filepath="$PROJECT_DIR$/67-PriorityQueues/67-PriorityQueues.iml" />
       <module fileurl="file://$PROJECT_DIR$/68-LinkedLists/68-LinkedLists.iml" filepath="$PROJECT_DIR$/68-LinkedLists/68-LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/69-DynamicArrays/69-DynamicArrays.iml" filepath="$PROJECT_DIR$/69-DynamicArrays/69-DynamicArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
