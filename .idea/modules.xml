@@ -79,6 +79,7 @@
       <module fileurl="file://$PROJECT_DIR$/74-InterpolationSearch/74-InterpolationSearch.iml" filepath="$PROJECT_DIR$/74-InterpolationSearch/74-InterpolationSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/75-BubbleSort/75-BubbleSort.iml" filepath="$PROJECT_DIR$/75-BubbleSort/75-BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/76-SelectionSort/76-SelectionSort.iml" filepath="$PROJECT_DIR$/76-SelectionSort/76-SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/77-InsertionSort/77-InsertionSort.iml" filepath="$PROJECT_DIR$/77-InsertionSort/77-InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
