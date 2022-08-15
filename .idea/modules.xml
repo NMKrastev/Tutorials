@@ -77,6 +77,7 @@
       <module fileurl="file://$PROJECT_DIR$/72-LinearSearch/72-LinearSearch.iml" filepath="$PROJECT_DIR$/72-LinearSearch/72-LinearSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/73-BinarySearch/73-BinarySearch.iml" filepath="$PROJECT_DIR$/73-BinarySearch/73-BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/74-InterpolationSearch/74-InterpolationSearch.iml" filepath="$PROJECT_DIR$/74-InterpolationSearch/74-InterpolationSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/75-BubbleSort/75-BubbleSort.iml" filepath="$PROJECT_DIR$/75-BubbleSort/75-BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
