@@ -83,6 +83,7 @@
       <module fileurl="file://$PROJECT_DIR$/78-Recursion/78-Recursion.iml" filepath="$PROJECT_DIR$/78-Recursion/78-Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/79-MergeSort/79-MergeSort.iml" filepath="$PROJECT_DIR$/79-MergeSort/79-MergeSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/80-QuickSort/80-QuickSort.iml" filepath="$PROJECT_DIR$/80-QuickSort/80-QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/81-HashTables/81-HashTables.iml" filepath="$PROJECT_DIR$/81-HashTables/81-HashTables.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
