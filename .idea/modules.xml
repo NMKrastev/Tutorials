@@ -86,6 +86,7 @@
       <module fileurl="file://$PROJECT_DIR$/81-HashTables/81-HashTables.iml" filepath="$PROJECT_DIR$/81-HashTables/81-HashTables.iml" />
       <module fileurl="file://$PROJECT_DIR$/82-AdjacencyMatrix/82-AdjacencyMatrix.iml" filepath="$PROJECT_DIR$/82-AdjacencyMatrix/82-AdjacencyMatrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/83-AdjacencyList/83-AdjacencyList.iml" filepath="$PROJECT_DIR$/83-AdjacencyList/83-AdjacencyList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/84-DepthFirstSearch/84-DepthFirstSearch.iml" filepath="$PROJECT_DIR$/84-DepthFirstSearch/84-DepthFirstSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
