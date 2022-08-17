@@ -88,6 +88,7 @@
       <module fileurl="file://$PROJECT_DIR$/83-AdjacencyList/83-AdjacencyList.iml" filepath="$PROJECT_DIR$/83-AdjacencyList/83-AdjacencyList.iml" />
       <module fileurl="file://$PROJECT_DIR$/84-DepthFirstSearch/84-DepthFirstSearch.iml" filepath="$PROJECT_DIR$/84-DepthFirstSearch/84-DepthFirstSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/85-BreadthFirstSearch/85-BreadthFirstSearch.iml" filepath="$PROJECT_DIR$/85-BreadthFirstSearch/85-BreadthFirstSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/86-BinarySearchTree/86-BinarySearchTree.iml" filepath="$PROJECT_DIR$/86-BinarySearchTree/86-BinarySearchTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUIApps/GUIApps.iml" filepath="$PROJECT_DIR$/GUIApps/GUIApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Tutorials.iml" />
     </modules>
